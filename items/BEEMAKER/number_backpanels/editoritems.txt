@@ -1,0 +1,43 @@
+"Item" {
+    "Type" "ITEM_BEEMAKER_NUMBER_BACKPANELS"
+    "Editor" {
+        "SubType" {
+			"Name" "Numbered Backpanels"
+			"Model" {
+				"ModelName"		"number_backpanels.3ds"
+			}
+			"Palette" {
+				"Tooltip"	"NUMBERED BACKPANELS"
+				"Image"		"palette/bee2/number_backpanels.png"
+				"Position"	"1 6 0"
+			}
+		    "Sounds" {
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"MovementHandle" "HANDLE_4_DIRECTIONS"
+		"DesiredFacing" "DESIRES_ANYTHING"
+		"InvalidSurface" "  "
+		"CanAnchorOnBarriers" "0"
+		"CanAnchorOnGoo" "0"
+	}
+	"Properties" {
+		"CubeType" {
+			"DefaultValue" "0"
+			"Index" "1"
+		}
+	}
+	"Exporting" {
+		"Instances" {
+			"0" {
+				"Name" "instances/BEE2/BEEMAKER/number_backpanels/backpanels_number_03.vmf"
+				"EntityCount" "0"
+			}
+		}
+		"TargetName" "backpanels_number"
+		"Offset" "64 64 64"
+	}
+}

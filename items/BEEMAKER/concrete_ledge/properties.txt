@@ -1,0 +1,16 @@
+"Properties" {
+	"Authors"		"BEEmaker,saismee"
+	"Tags"			"Custom"
+	"Description" {
+		"" "A 0.5x1 voxel panel ledge with a small BTS area underneath, exposing concrete."
+		"" ""
+		"" "* Weighted is plain concrete."
+		"" "* Cube has an electrical box."
+		"" "* Sphere has a light."
+	}
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/concrete_ledge.png"
+	}
+}

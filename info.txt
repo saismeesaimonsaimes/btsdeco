@@ -1,0 +1,73 @@
+"ID" "SAISMEE_BTS_DECO"
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_LARGE_YELLOW_BACKPANELS"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/large_yellow_backpanels"
+//        }
+//    }
+//}
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_EXTENDED_PANELS"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/extended_panels"
+//        }
+//    }
+//}
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_CONCRETE_LEDGE"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/concrete_ledge"
+//        }
+//    }
+//}
+"Item" {
+    "ID" "ITEM_BEEMAKER_PANEL_REMOVER"
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "BEEMAKER/panel_remover"
+        }
+    }
+}
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_PANEL_OVERRIDE"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/panel_override"
+//        }
+//    }
+//}
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_TESTING_DOME"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/testing_dome"
+//        }
+//    }
+}
+//"Item" {
+//    "ID" "ITEM_BEEMAKER_NUMBER_BACKPANELS"
+//    "Version" {
+//        "ID" "VER_DEFAULT"
+//        "Styles" {
+//            "ANY_STYLE" "BEEMAKER/number_backpanels"
+//        }
+//    }
+//}
+"Item" {
+    "ID" "ITEM_BEEMAKER_REMOVED_PANEL"
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "BEEMAKER/removed_panel"
+        }
+    }
+}

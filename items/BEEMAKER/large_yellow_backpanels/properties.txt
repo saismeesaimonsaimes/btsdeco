@@ -1,0 +1,16 @@
+"Properties" {
+	"Authors"		"BEEmaker,saismee"
+	"Tags"			"Custom"
+	"Description" {
+		"" "A 2x2 voxel panel showing yellow backpanels, with optional lights or an arrow."
+		"" ""
+		"" "* Weighted is plain yellow backpanels."
+		"" "* Cube has an arrow facing in the direction of the rotation handle."
+		"" "* Sphere has two cage lights with their long side facing towards the rotation handle"
+	}
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/largepanel.png"
+	}
+}

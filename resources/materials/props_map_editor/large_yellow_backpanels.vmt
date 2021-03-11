@@ -1,0 +1,5 @@
+UnLitGeneric
+{
+    $baseTexture "props_map_editor\large_yellow_backpanels.vmt"
+    $translucent
+}

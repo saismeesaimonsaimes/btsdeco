@@ -1,0 +1,5 @@
+UnLitGeneric
+{
+    $baseTexture "props_map_editor\concrete_ledge.vmt"
+    $translucent
+}

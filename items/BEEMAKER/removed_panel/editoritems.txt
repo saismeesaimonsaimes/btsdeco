@@ -1,0 +1,93 @@
+"Item" {
+    "Type" "ITEM_BEEMAKER_REMOVED_PANEL"
+    "Editor" {
+        "SubType" {
+			"Name" "Removed Panel"
+			"Model" {
+				"ModelName"		"removed_panel.3ds"
+			}
+			"Palette" {
+				"Tooltip"	"REMOVED PANEL"
+				"Image"		"palette/bee2/removed_panel.png"
+				"Position"	"1 6 0"
+			}
+		    "Sounds" {
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"SubType" {
+			"Name" "Removed Panel"
+			"Model" {
+				"ModelName"		"removed_panel.3ds"
+			}
+			"Palette" {
+				"Tooltip"	"REMOVED PANEL"
+				"Image"		"palette/bee2/removed_panel.png"
+				"Position"	"1 6 0"
+			}
+		    "Sounds" {
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"SubType" {
+			"Name" "Removed Panel"
+			"Model" {
+				"ModelName"		"removed_panel.3ds"
+			}
+			"Palette" {
+				"Tooltip"	"REMOVED PANEL"
+				"Image"		"palette/bee2/removed_panel.png"
+				"Position"	"1 6 0"
+			}
+		    "Sounds" {
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"MovementHandle" "HANDLE_4_DIRECTIONS"
+		"DesiredFacing" "DESIRES_ANYTHING"
+		"InvalidSurface" "CEILING WALL"
+		"CanAnchorOnBarriers" "0"
+		"CanAnchorOnGoo" "0"
+	}
+	"Properties" {
+		"CubeType" {
+			"DefaultValue" "0"
+			"Index" "2"
+		}
+		"StartEnabled" {
+			"DefaultValue" "1"
+			"Index" "1"
+		}
+	}
+	"Exporting" {
+		"Instances" {
+			"0" {
+				"Name" "instances/BEE2/BEEMAKER/removed_panel/large_removed_black_panel_1.vmf"
+				"EntityCount" "0"
+			}
+		}
+		"Instances" {
+			"1" {
+				"Name" "instances/BEE2/BEEMAKER/removed_panel/large_removed_black_panel_2.vmf"
+				"EntityCount" "0"
+			}
+		}
+		"Instances" {
+			"2" {
+				"Name" "instances/BEE2/BEEMAKER/removed_panel/large_removed_black_panel_3.vmf"
+				"EntityCount" "0"
+			}
+		}
+		"TargetName" "removed_panel"
+		"Offset" "64 64 64"
+	}
+}

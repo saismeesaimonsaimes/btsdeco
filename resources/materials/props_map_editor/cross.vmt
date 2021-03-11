@@ -1,0 +1,5 @@
+UnLitGeneric
+{
+    $baseTexture "props_map_editor\cross.vmt"
+    $translucent
+}

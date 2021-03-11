@@ -1,0 +1,114 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8419"
+	"mapversion" "2"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "32"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "2"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+	solid
+	{
+		"id" "2"
+		side
+		{
+			"id" "1"
+			"plane" "(-63.6261 99.5163 55.9041) (-56.1328 99.5163 58.7058) (-56.1328 -28.4837 58.7058)"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0.936672 0 0.350207 174.075] 0.25"
+			"vaxis" "[0 -1 0 142.065] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2"
+			"plane" "(-18.7996 -28.4837 -63.9899) (-11.3062 -28.4837 -61.1882) (-11.3062 99.5163 -61.1882)"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0.936672 0 0.350207 174.075] 0.25"
+			"vaxis" "[0 -1 0 142.065] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3"
+			"plane" "(-63.6261 99.5163 55.9041) (-63.6261 -28.4837 55.9041) (-18.7996 -28.4837 -63.9899)"
+			"material" "ANIM_WP/FRAMEWORK/BACKPANELS"
+			"uaxis" "[0 1 0 113.935] 0.25"
+			"vaxis" "[0.350207 0 -0.936672 298.585] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4"
+			"plane" "(-11.3062 99.5163 -61.1882) (-11.3062 -28.4837 -61.1882) (-56.1328 -28.4837 58.7058)"
+			"material" "METAL/BLACK_WALL_METAL_002C"
+			"uaxis" "[0 1 0 113.935] 0.25"
+			"vaxis" "[0.350207 0 -0.936672 298.585] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5"
+			"plane" "(-56.1328 99.5163 58.7058) (-63.6261 99.5163 55.9041) (-18.7996 99.5163 -63.9899)"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0.936672 0 0.350207 174.075] 0.25"
+			"vaxis" "[0.350207 0 -0.936672 42.5848] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "6"
+			"plane" "(-11.3062 -28.4837 -61.1882) (-18.7996 -28.4837 -63.9899) (-63.6261 -28.4837 55.9041)"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0.936672 0 0.350207 174.075] 0.25"
+			"vaxis" "[0.350207 0 -0.936672 42.5848] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 169 202"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

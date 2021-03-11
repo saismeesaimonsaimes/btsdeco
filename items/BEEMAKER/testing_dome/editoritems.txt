@@ -1,0 +1,37 @@
+"Item" {
+    "Type" "ITEM_BEEMAKER_TESTING_DOME"
+    "Editor" {
+        "SubType" {
+			"Name" "Testing Dome"
+			"Model" {
+				"ModelName"		"cross.3ds"
+			}
+			"Palette" {
+				"Tooltip"	"TESTING DOME"
+				"Image"		"palette/bee2/cross.png"
+				"Position"	"1 6 0"
+			}
+		    "Sounds" {
+				"SOUND_CREATED" "P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE" "P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE" "P2Editor.CollapseOther"
+				"SOUND_DELETED" "P2Editor.RemoveOther"
+			}
+		}
+		"MovementHandle" "HANDLE_NONE"
+		"DesiredFacing" "DESIRES_UP"
+		"InvalidSurface" "WALL CEILING"
+		"CanAnchorOnBarriers" "0"
+		"CanAnchorOnGoo" "0"
+	}
+	"Exporting" {
+		"Instances" {
+			"0" {
+				"Name" "instances/BEE2/BEEMAKER/testing_dome/dome.vmf"
+				"EntityCount" "0"
+			}
+		}
+		"TargetName" "dome"
+		"Offset" "64 64 64"
+	}
+}

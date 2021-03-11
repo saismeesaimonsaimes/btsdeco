@@ -1,0 +1,14 @@
+"Properties" {
+	"Authors"		"BEEmaker,saismee"
+	"Tags"			"Custom"
+	"Description" {
+		"" "Four raised panels with truss protruding 2 voxels from the floor, designed to be placed in goo."
+		"" ""
+		"" "*Note: These panels do not have grating underneath them, and will look out of place if not placed in goo.*"
+	}
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/quadarms.png"
+	}
+}

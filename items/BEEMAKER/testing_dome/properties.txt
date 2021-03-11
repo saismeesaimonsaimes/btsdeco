@@ -1,0 +1,16 @@
+"Properties" {
+	"Authors"		"BEEmaker,saismee"
+	"Tags"			"Custom"
+	"Description" {
+		"" "A large spherical aspestos dome designed for use in old aperture testing tracks."
+		"" ""
+		"" "**IMPORTANT NOTES:**"
+		"" ""
+		"" "To use this item properly, place it roughly centered in your map, and ensure you dont make your map too large. To expose the dome, use the *Old Aperture Panel* item."
+	}
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/cross.png"
+	}
+}

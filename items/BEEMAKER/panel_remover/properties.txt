@@ -1,0 +1,25 @@
+"Properties" {
+	"Authors"		"BEEmaker,saismee"
+	"Tags"			"Custom"
+	"Description" {
+		"" "An item that removes the panel it is placed upon."
+		"" ""
+		"" "Can be used to make skeleton panels/stairs."
+		"" ""
+		"" ""
+		"" "**IMPORTANT NOTES:**"
+		"" ""
+		"" "* If you use this item, please do not report build errors or glitchy goo to the BEEmod developers or saismee."
+		"" "* This item is very dangerous to use and can easily cause issues if used improperly."
+		"" "* Do not place it on piston lifts. They will break."
+		"" "* Do not place it on any outside surfaces. It will cause a leak."
+		"" ""
+		"" ""
+		"" "If you are having build errors, try removing this item and seeing if it continues."
+	}
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/cross.png"
+	}
+}
